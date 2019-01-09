@@ -8,3 +8,5 @@ How to Contribute
 
 Just fork the original repo at pragmaticlearning/github-example, make your changes and send over a Pull Request.
 Cole
+菜菜菜菜菜
+东风股份大哥
